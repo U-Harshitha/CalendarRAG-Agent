@@ -1,0 +1,3 @@
+Meetings should not overlap.
+Meetings should be scheduled within working hours.
+Ambiguous scheduling requests should be clarified before action.

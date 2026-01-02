@@ -1,0 +1,4 @@
+Google Calendar events have start and end times.
+Events may overlap unless explicitly checked.
+Event IDs uniquely identify calendar entries.
+Calendar queries require time ranges or search keywords.

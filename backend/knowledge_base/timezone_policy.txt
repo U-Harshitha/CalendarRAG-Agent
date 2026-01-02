@@ -1,0 +1,2 @@
+All times are interpreted in Indian Standard Time (IST).
+No automatic timezone conversion is performed.

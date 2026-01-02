@@ -1,0 +1,2 @@
+All times are assumed to be in Indian Standard Time (IST).
+If a user query is ambiguous, the system should not make assumptions.

@@ -1,0 +1,3 @@
+Meetings cannot overlap in time.
+Work hours are from 9 AM to 6 PM.
+Events must be scheduled only within working hours.
