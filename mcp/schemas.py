@@ -14,6 +14,6 @@ class CreateEventInput(BaseModel):
     title: str
     date: str
     start_time: str
-    end_time: str
+    end_time: str | None = None
     description: str = ""
     location: str = ""

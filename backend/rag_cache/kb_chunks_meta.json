@@ -1,0 +1,38 @@
+[
+  {
+    "id": "calender_api_overview.txt::chunk:0",
+    "file": "calender_api_overview.txt",
+    "chunk_index": 0,
+    "text": "Google Calendar events have start and end times. Events may overlap unless explicitly checked. Event IDs uniquely identify calendar entries. Calendar queries require time ranges or search keywords."
+  },
+  {
+    "id": "calender_rules.txt::chunk:0",
+    "file": "calender_rules.txt",
+    "chunk_index": 0,
+    "text": "Meetings cannot overlap in time. Work hours are from 9 AM to 6 PM. Events must be scheduled only within working hours."
+  },
+  {
+    "id": "meeting_best_practices.txt::chunk:0",
+    "file": "meeting_best_practices.txt",
+    "chunk_index": 0,
+    "text": "Meetings should not overlap. Meetings should be scheduled within working hours. Ambiguous scheduling requests should be clarified before action."
+  },
+  {
+    "id": "timezone_policy.txt::chunk:0",
+    "file": "timezone_policy.txt",
+    "chunk_index": 0,
+    "text": "All times are interpreted in Indian Standard Time (IST). No automatic timezone conversion is performed."
+  },
+  {
+    "id": "time_assumptions.txt::chunk:0",
+    "file": "time_assumptions.txt",
+    "chunk_index": 0,
+    "text": "All times are assumed to be in Indian Standard Time (IST). If a user query is ambiguous, the system should not make assumptions."
+  },
+  {
+    "id": "tool_guidelines.txt::chunk:0",
+    "file": "tool_guidelines.txt",
+    "chunk_index": 0,
+    "text": "Calendar data must only be accessed using calendar tools. The assistant must not invent events. If calendar data is required, the appropriate tool must be called."
+  }
+]
